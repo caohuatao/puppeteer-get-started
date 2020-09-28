@@ -1,0 +1,13 @@
+{
+  "name": "puppeteer-get-started",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "puppeteer": "^5.2.1",
+    "puppeteer-core": "^5.2.1"
+  },
+  "dependencies": {
+    "@types/puppeteer": "^3.0.1"
+  }
+}
